@@ -22,7 +22,7 @@
     "express": "^4.21.2",
     "pug": "^3.0.3",
     "morgan": "^1.10.0",
-    "simple-git": "^3.27.0",
+    "simple-git": "^3.36.0",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
